@@ -20,7 +20,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/althaf009/VULN-SCANNER.git
+git clone https://github.com/althaf009/SCANNER-SPYDER.git
 cd VULN-SCANNER
 Install the required dependencies:
 
