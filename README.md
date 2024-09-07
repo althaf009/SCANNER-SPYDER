@@ -1,5 +1,5 @@
 VULN-SCANNER
-VULN-SCANNER is a vulnerability scanning tool designed to identify common security vulnerabilities and misconfigurations in a network or website. The tool performs scans for open ports, outdated software versions, and checks for proper security configurations, making it an essential tool for penetration testers and security professionals.
+is a vulnerability scanning tool designed to identify common security vulnerabilities and misconfigurations in a network or website. The tool performs scans for open ports, outdated software versions, and checks for proper security configurations, making it an essential tool for penetration testers and security professionals.
 
 Table of Contents
 Features
